@@ -1,7 +1,7 @@
 ### To intsall all rhe required dependecies
 
 ```
-npm install
+npm install or npm i
 ```
 
 ## Start the project
